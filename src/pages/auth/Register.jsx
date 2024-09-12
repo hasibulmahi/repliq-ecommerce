@@ -23,7 +23,7 @@ const Register = () => {
               </span>
             </h2>
             <p className="mt-4 text-gray-300 leading-relaxed">
-              Create your account by filling in your valid information. It's quick and easy.
+              Create your account by filling in your valid information. It is quick and easy.
             </p>
           </div>
 

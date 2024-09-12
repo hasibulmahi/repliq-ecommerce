@@ -52,7 +52,7 @@ const Checkout = () => {
       info.mobile.length === 0 &&
       info.email.length === 0
     ) {
-      toast.error("Fields shouldn't be empty");
+      toast.error("Fields should not be empty");
     } else {
       setLoading(true);
 
