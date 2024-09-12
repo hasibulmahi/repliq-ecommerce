@@ -128,6 +128,7 @@ const Navbar = ({ role }) => {
       </nav>
       {debounceText.length > 0 && (
         <Search searchText={debounceText} setSearchKey={setSearchKey} />
+        
       )}
     </>
   );
