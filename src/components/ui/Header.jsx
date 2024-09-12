@@ -6,6 +6,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 const Header = () => {
+  
   const [isHovered, setIsHovered] = useState(false);
   return (
     <section className="relative">
